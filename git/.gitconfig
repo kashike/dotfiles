@@ -1,0 +1,10 @@
+[alias]
+  cm = commit
+  cp = cherry-pick
+  pl = pull
+  ps = push
+  ra = rebase --abort
+  rc = rebase --continue
+  ri = rebase --interactive
+  rs = rebase --skip
+  sw = switch
