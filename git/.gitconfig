@@ -8,3 +8,4 @@
   ri = rebase --interactive
   rs = rebase --skip
   sw = switch
+  uncommit = reset --soft HEAD^
